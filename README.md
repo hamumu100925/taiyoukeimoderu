@@ -1,2 +1,0 @@
-# taiyoukeimoderu
-processingを用いたモデル
